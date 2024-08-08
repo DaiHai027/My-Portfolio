@@ -47,9 +47,9 @@ export default function Footer() {
                         <span>Let’s</span>  <br/>Connect.
                     </h2>
 
-                    <Link className={styles.email} href={`mailto:${commonConfig.personal.email}`}>
+                    {/* <Link className={styles.email} href={`mailto:${commonConfig.personal.email}`}>
                         {commonConfig.personal.email}
-                    </Link>
+                    </Link> */}
 
                     <SocialLinks></SocialLinks>
 
