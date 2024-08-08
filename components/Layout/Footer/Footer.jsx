@@ -50,6 +50,7 @@ export default function Footer() {
                     {/* <Link className={styles.email} href={`mailto:${commonConfig.personal.email}`}>
                         {commonConfig.personal.email}
                     </Link> */}
+                    
 
                     <SocialLinks></SocialLinks>
 
