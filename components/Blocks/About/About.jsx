@@ -33,7 +33,7 @@ export default function About() {
             <div className={styles.grid}>
                 <header className={styles.header}>
                     <TextReveal className={styles.de7scription}>
-                        I&apos;ve worked in UI design and front-end development, so I can understand designs well and help the team communicate effectively.
+                        I&apos;ve worked in UI design and fullstack development, so I can understand designs well and help the team communicate effectively.
                     </TextReveal>
                 </header>
                 <ParallaxImage src={"/gallery/IMG_20230325_154428.jpg"} alt={`An image`} width={800} height={1200} className={styles.figure} />
