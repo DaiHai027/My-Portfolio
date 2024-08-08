@@ -58,7 +58,7 @@
     "showOnNavigation":  false,
     "showOnFooter":  false,
     "title": "Blog",
-    "description": "Articles focused on CSS, HTML, JavaScript, and other frontend stuff.",
+    "description": "Articles focused on CSS, HTML, JavaScript, and other fullstack stuff.",
     "image": "",
     "link": "/blog"
   }

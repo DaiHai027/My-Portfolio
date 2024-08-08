@@ -35,13 +35,6 @@
     "description": "I specialize in enhancing website performance, ensuring fast loading times and efficient resource utilization for an optimal user experience."
   },
   {
-    "icon": "IconA11Y",
-    "image": "/icon/icon-a11y.svg",
-    "title": "A11Y",
-    "subtitle": "Web Accessibility",
-    "description": "Accessibility is a must. I ensure everyone can use what I create, focusing on keyboard navigation and screen reader compatibility."
-  },
-  {
     "icon": "IconFigma",
     "image": "/icon/icon-figma.svg",
     "title": "Design",
@@ -75,5 +68,19 @@
     "title": "Sanity.io",
     "subtitle": "Headless CMS, Gatsby",
     "description": "I use Sanity CMS for building website pages."
+  },
+  {
+    "icon": "IconNode",
+    "image": "/icon/icon-node.svg",
+    "title": "Node",
+    "subtitle": "",
+    "description": "I use it to write server-side applications with access to the operating system, file system, and everything else required to build fully-functional applications.."
+  },
+  {
+    "icon": "IconMongoDB",
+    "image": "/icon/icon-mongodb.svg",
+    "title": "MongoDB",
+    "subtitle": "",
+    "description": "I use MongoDB for developing scalable applications with evolving data schemas."
   }
 ]

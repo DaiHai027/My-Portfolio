@@ -50,9 +50,9 @@ export default function Resume() {
                         <div className={`${styles.card} ${styles.cardV1}`}>
                             <div className={styles.cardInner}>
                                 <div className={styles.cardTitle}>Dai Hai Vo</div>
-                                <div className={styles.cardDesc}>Senior Frontend Developer</div>
+                                <div className={styles.cardDesc}>Senior FullStack Developer</div>
                                 <hr/>
-                                <p>I am Hai Vo, a senior frontend developer with over 7 years of professional experience.
+                                <p>I am Hai Vo, a senior fullStack developer with over 7 years of professional experience.
                                     Successfully building user-friendly websites with ReactJS & NextJS. I pay attention
                                     to
                                     small details, enjoy technical problems, and work well in teams. I like learning new
@@ -67,9 +67,10 @@ export default function Resume() {
                                 <hr/>
                                 <div className={styles.cardSectionTitle}>WORK EXPERIENCE</div>
                                 <p>
-                                    Senior Frontend Developer | TenTwenty Digital Agency <br/>
-                                    UI & Frontend Developer | Denge Bilgisayar <br/>
-                                    Frontend Developer | Agency Look
+                                    Senior FullStack Developer | Newwave Solutions <br/>
+                                    UI & FullStack Developer | TPS Software Corporation <br/>
+                                    Frontend Developer | Enlab Software Company <br/>
+                                    FullStack Developer | TECHVIFY Software | Global AI & Software Development Company
                                 </p>
                             </div>
                             {/* <figure className={styles.figure}>

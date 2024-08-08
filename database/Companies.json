@@ -1,6 +1,6 @@
 [
   {
-    "position": "Senior Frontend Developer",
+    "position": "Senior FullStack Developer",
     "company": "Newwave Solutions",
     "duration": "January 2022 - September 2023",
     "location": "Remote",
@@ -29,7 +29,7 @@
     "url": "httsp://denge.com.tr/",
     "responsibilities": [
       "Re-designed over 85 unique pages for B2B, CRM, and corporate websites in Figma.",
-      "Collaborated closely with two backend developers, creating the frontend of the entire project.",
+      "Collaborated closely with two backend developers, creating the fullstack of the entire project.",
       "Ensured fast page loading, scoring over 90 in page speed.",
       "Focused on making the B2B e-commerce platform easy to use for 3000+ business customers."
     ],
@@ -40,7 +40,7 @@
     }
   },
   {
-    "position": "Frontend Developer",
+    "position": "FullStack Developer",
     "company": "Enlab Software Company",
     "duration": "April 2017 - May 2018",
     "location": "Remote",
@@ -58,7 +58,7 @@
     }
   },
   {
-    "position": "Frontend Developer",
+    "position": "FullStack Developer",
     "company": "TECHVIFY Software | Global AI & Software Development Company",
     "duration": "January 2016 - March 2017",
     "location": "Remote",

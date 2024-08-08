@@ -56,12 +56,12 @@ export default function BoldTitle() {
         <section className={styles.section}>
             <Container className={styles.grid}>
                 <TextReveal className={styles.paragraph}>
-                    I&apos;ve worked in UI design and front-end development, so I can
-                    understand designs well and builds effective communication between team members.
+                    I&apos;ve worked in front-end and back-end development, so I can
+                    understand project well and builds effective communication between team members.
                 </TextReveal>
                 <h2 className={styles.boldTitle} ref={boldTitle}>
                     <span className={styles.boldTitleLeft} ref={boldTitleLeft}>Creative</span>
-                    <span>Frontend</span>
+                    <span>FullStack</span>
                     <span className={styles.boldTitleRight} ref={boldTitleRight}>Developer</span>
                 </h2>
                 <TextReveal className={`${styles.paragraph} ${styles.paragraphAlt}`}>

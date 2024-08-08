@@ -15,7 +15,7 @@ export default function About() {
 
                 <header className={styles.header}>
                     <Title heading={'h3'} color="black"><span>I’m a</span> <br/>
-                        Creative Frontend Developer
+                        Passionate FullStack Developer
                     </Title>
                     <TextReveal className={styles.description}>
                         I would describe myself as a creative web developer with over 7 years of experience in development.
