@@ -1,0 +1,29 @@
+{
+  "metadata": {
+    "name": "Hai Vo",
+    "title": "Hai Vo - Front-End Developer",
+    "description": "I develop accessible, responsive, interactive, and animated websites with a strong focus on performance.",
+    "locale": "en-US"
+  },
+  "personal": {
+    "name": "Hai Vo",
+    "surname": "Dai",
+    "role": "Front-End Developer",
+    "experience": 7,
+    "email": "daihaistar@gmail.com",
+    "city": "Cau Giay",
+    "country": "Vietnam",
+    "username": "@yasingencnet",
+    "resumeURL": "https://docs.google.com/document/d/1Xyggoo6bsZpBRUtaoHMYKvQHgTKvLbde_WBAcNcm2rE/edit?usp=sharing"
+  },
+  "social": {
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "github": "https://github.com/DaiHai027",
+    "codepen": ""
+  },
+  "content": {
+    "verse": "Whoever sows sparingly will also reap sparingly, and whoever sows generously will also reap generously. [2 Cor. 9:6]"
+  }
+}
