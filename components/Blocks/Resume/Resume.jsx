@@ -49,10 +49,10 @@ export default function Resume() {
                     <div className={styles.cardGroup} ref={cardGroup}>
                         <div className={`${styles.card} ${styles.cardV1}`}>
                             <div className={styles.cardInner}>
-                                <div className={styles.cardTitle}>Dai Hai Vo</div>
+                                <div className={styles.cardTitle}>Dai Hai Vo Van</div>
                                 <div className={styles.cardDesc}>Senior FullStack Developer</div>
                                 <hr/>
-                                <p>I am Hai Vo, a senior fullStack developer with over 7 years of professional experience.
+                                <p>I am Dai Vo, a senior fullStack developer with over 7 years of professional experience.
                                     Successfully building user-friendly websites with ReactJS & NextJS. I pay attention
                                     to
                                     small details, enjoy technical problems, and work well in teams. I like learning new
@@ -74,7 +74,7 @@ export default function Resume() {
                                 </p>
                             </div>
                             {/* <figure className={styles.figure}>
-                                <Image src="/hero-image.jpeg" alt="Hai Vo" width={150} height={150}/>
+                                <Image src="/hero-image.jpeg" alt="Dai Vo" width={150} height={150}/>
                             </figure> */}
                         </div>
                         <div className={`${styles.card} ${styles.cardV2}`}>
