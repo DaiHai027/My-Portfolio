@@ -62,7 +62,7 @@ export default function Footer() {
 
                 <div className={styles.bottom} ref={footerBottom}>
                     <Logo classVariable={styles.badge}></Logo>
-                    <div className={styles.copyright}>&copy; {currentYear} {commonConfig.personal.name} {commonConfig.personal.surname}
+                    <div className={styles.copyright}>&copy; {currentYear} Dai Hai Vo Van
                         <br/>
                         Powered by&nbsp;
                         Vercel,&nbsp;
