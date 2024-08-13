@@ -28,13 +28,6 @@
     "description": "Beyond markup, HTML is crucial for an inclusive web. I structure content carefully for universal accessibility."
   },
   {
-    "icon": "IconOptimization",
-    "image": "/icon/icon-optimization.svg",
-    "title": "PageSpeed",
-    "subtitle": "Insights",
-    "description": "I specialize in enhancing website performance, ensuring fast loading times and efficient resource utilization for an optimal user experience."
-  },
-  {
     "icon": "IconFigma",
     "image": "/icon/icon-figma.svg",
     "title": "Design",
@@ -82,5 +75,12 @@
     "title": "MongoDB",
     "subtitle": "",
     "description": "I use MongoDB for developing scalable applications with evolving data schemas."
+  },
+  {
+    "icon": "IconOptimization",
+    "image": "/icon/icon-django.svg",
+    "title": "Django",
+    "subtitle": "Python",
+    "description": "I use Django with Python to build secure, scalable web applications quickly, leveraging its powerful features and built-in admin interface."
   }
 ]
