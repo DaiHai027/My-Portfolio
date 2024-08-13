@@ -77,7 +77,7 @@
     "description": "I use MongoDB for developing scalable applications with evolving data schemas."
   },
   {
-    "icon": "IconOptimization",
+    "icon": "IconDjango",
     "image": "/icon/icon-django.svg",
     "title": "Django",
     "subtitle": "Python",
