@@ -6,7 +6,7 @@ export default function Logo({classVariable}) {
     return (
         <Link href="/" className={classVariable} aria-label={commonConfig.metadata.title}>
              <Image
-                                        src="/icon/wolf1.png"
+                                        src="/icon/logo-2.png"
                                         alt={commonConfig.metadata.title}
                                         width={50}
                                         height={50}
