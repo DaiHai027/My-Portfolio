@@ -88,11 +88,6 @@ export default function Resume() {
                         <FancyButton theme='button-1' target={'_blank'} link={commonConfig.personal.resumeURL}>View
                             Resume</FancyButton>
                     </div>
-                    <div className={styles.links}>
-                        {/* <Link href={`${commonConfig.social.linkedin}`} target={'_blank'}>LinkedIn</Link> */}
-                        <Link href={`${commonConfig.social.github}`} target={'_blank'}>GitHub</Link>
-                        {/* <Link href={`${commonConfig.social.codepen}`} target={'_blank'}>CodePen</Link> */}
-                    </div>
                 </div>
             </Container>
         </section>

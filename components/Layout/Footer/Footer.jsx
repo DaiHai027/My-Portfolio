@@ -49,11 +49,6 @@ export default function Footer() {
                         <span>Let’s</span>  <br/>Connect.
                     </h2>
 
-                    {/* <Link className={styles.email} href={`mailto:${commonConfig.personal.email}`}>
-                        {commonConfig.personal.email}
-                    </Link> */}
-                    
-
                     <SocialLinks></SocialLinks>
 
                 </div>
@@ -69,7 +64,7 @@ export default function Footer() {
                         Powered by&nbsp;
                         Vercel,&nbsp;
                         Next.js, and &nbsp;
-                        <Link href="https://github.com/DaiHai027/webkit">GitHub</Link>.
+                        <Link href="https://github.com/DaiHai027">GitHub</Link>.
                         <br/>
                         {`${commonConfig.personal.city},  ${currentTime}`}&nbsp;
                         •&nbsp;
